@@ -5,7 +5,7 @@
     "aws-cdk:enableDiffNoFail": "true",
     "@aws-cdk/core:stackRelativeExports": "true",
     "@aws-cdk/core:newStyleStackSynthesis": true,
-    "github_alias": "msa-mentor",
+    "github_alias": "msamentor",
     "github_repo_name": "aws-bootstrap-kit-examples",
     "github_repo_branch": "main",
     "email": "infracloudkr@gmail.com",
